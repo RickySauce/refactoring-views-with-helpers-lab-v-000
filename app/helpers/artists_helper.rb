@@ -1,7 +1,7 @@
 module ArtistsHelper
 
   def display_artist(song)
-    binding.prys
+    binding.pry
   end
 
 end
